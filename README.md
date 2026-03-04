@@ -58,5 +58,5 @@ HTML, CSS, JavaScript
 
 ## Connect With Me
 Email: krishp1809@gmail.com  
-LinkedIn: https://www.linkedin.com/in/krishpatel1314/
+LinkedIn: https://www.linkedin.com/in/krishpatel1314
 GitHub: https://github.com/Krish1314/KrishPatel
