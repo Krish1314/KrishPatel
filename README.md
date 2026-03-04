@@ -1,4 +1,3 @@
-# KrishPatel
 
 # Hi, I'm Krish Patel 👋
 
