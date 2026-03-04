@@ -18,7 +18,7 @@ JWT Authentication Testing – Postman
 Magma Website Clone – HTML CSS JS
 
 ## GitHub Stats
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME)
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish1314)
 
 ## Connect with me
 LinkedIn | Email | Portfolio
