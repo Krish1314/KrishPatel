@@ -1,62 +1,107 @@
-# Hi, I'm Krish Patel 👋
+# Hi 👋 I'm Krish Patel
 
-Computer Science graduate passionate about Full-Stack Development, Automation Testing, and building scalable web applications.
+💻 Software Developer | QA Automation Engineer | Full-Stack Enthusiast
 
-## About Me
-• B.Tech in Computer Science – Vellore Institute of Technology  
-• Experience in Full-Stack Development and QA Automation  
-• Interested in Web Development, Software Testing, and Backend Systems  
+🎓 B.Tech Computer Science – Vellore Institute of Technology
+🚀 Interested in Web Development, Automation Testing, and Backend Systems
 
-## Tech Stack
+---
 
-Frontend
-HTML | CSS | JavaScript | Bootstrap | React
+## 🧑‍💻 About Me
 
-Backend
-Node.js | .NET | C# | Java
+* 🔭 Worked as **QA & Web Development Intern at Abstract Group**
+* 🌐 Experience building **responsive web applications and automation frameworks**
+* 🧪 Skilled in **API Testing, Selenium Automation, and Regression Testing**
+* 💡 Passionate about **building scalable applications and improving software quality**
 
-Databases
-SQL | PostgreSQL | MongoDB
+---
 
-Testing
-Selenium | Postman | API Testing | Automation Testing
+## 🛠 Tech Stack
 
-Tools
-Git | GitHub | Figma | Canva
+**Frontend**
+HTML • CSS • JavaScript • Bootstrap • React
 
-## Projects
+**Backend**
+Node.js • .NET • C# • Java
+
+**Database**
+SQL • PostgreSQL • MongoDB
+
+**Testing & Tools**
+Selenium • Postman • Automation Testing • Git • GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
+
+---
+
+## 🚀 Projects
 
 ### Finance Management System
-React, C#, .NET, PostgreSQL  
-• Built a full-stack financial management platform with protected REST APIs  
-• Implemented real-time dashboards and improved data retrieval performance  
+
+Full-stack application built using **React, C#, .NET, PostgreSQL**
+
+* Secure REST APIs
+* Real-time dashboards
+* Optimized data retrieval performance
+
+---
 
 ### Quiz Application
-HTML, CSS, Bootstrap, JavaScript  
-• Interactive quiz platform with real-time scoring  
-• Questions dynamically fetched using JSON API  
+
+Interactive quiz platform using **HTML, CSS, JavaScript**
+
+* Dynamic question retrieval
+* Real-time scoring system
+* Responsive UI
+
+---
 
 ### Automation Testing Framework
-C#, .NET  
-• Developed reusable automation scripts for regression testing  
-• Reduced manual testing time and improved reliability  
+
+Automation scripts using **C# and .NET**
+
+* Modular testing framework
+* Reduced regression testing time
+* Improved test reliability
+
+---
 
 ### JWT Authentication Testing
-Postman, API Testing, Security Testing  
-• Tested authentication workflows including token validation and expiration  
-• Designed functional and regression test cases for secure API access  
+
+API security testing using **Postman**
+
+* Token generation & validation
+* Expiration and refresh workflow testing
+* Role-based authorization testing
+
+---
 
 ### Magma Website Clone
-HTML, CSS, JavaScript  
-• Built a responsive clone of a production website  
-• Optimized performance and cross-browser compatibility  
 
-## Certifications
-• Oracle Certified Foundations Associate – Database  
-• Mastering Data Structures and Algorithms  
-• Introduction to MongoDB  
+Frontend project using **HTML, CSS, JavaScript**
 
-## Connect With Me
-Email: krishp1809@gmail.com  
-LinkedIn: https://www.linkedin.com/in/krishpatel1314
-GitHub: https://github.com/Krish1314/KrishPatel
+* Fully responsive UI
+* Cross-browser compatibility
+* Optimized page load performance
+
+---
+
+## 📜 Certifications
+
+* Oracle Certified Foundations Associate – Database
+* Mastering Data Structures and Algorithms
+* Introduction to MongoDB
+
+---
+
+## 📫 Connect With Me
+
+Email: [krishp1809@gmail.com](mailto:krishp1809@gmail.com)
+LinkedIn: https://linkedin.com
+GitHub: https://github.com/YOUR_GITHUB_USERNAME
