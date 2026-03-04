@@ -32,13 +32,6 @@ Selenium • Postman • Automation Testing • Git • GitHub
 
 ---
 
-## 📊 GitHub Stats
-
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish1314\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish1314\&layout=compact)
-
----
 
 ## 🚀 Projects
 
