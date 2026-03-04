@@ -96,5 +96,5 @@ Frontend project using **HTML, CSS, JavaScript**
 ## 📫 Connect With Me
 
 Email: [krishp1809@gmail.com](mailto:krishp1809@gmail.com)
-LinkedIn: https://linkedin.com
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+LinkedIn: https://www.linkedin.com/in/krishpatel1314/
+GitHub: https://github.com/Krish1314/
